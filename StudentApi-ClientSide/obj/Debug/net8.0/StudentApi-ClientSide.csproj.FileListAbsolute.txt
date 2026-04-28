@@ -1,0 +1,28 @@
+H:\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.exe
+H:\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.deps.json
+H:\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.runtimeconfig.json
+H:\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.dll
+H:\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.pdb
+H:\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+H:\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.AssemblyInfoInputs.cache
+H:\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.AssemblyInfo.cs
+H:\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.csproj.CoreCompileInputs.cache
+H:\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.dll
+H:\StudentApi-ClientSide\obj\Debug\net8.0\refint\StudentApi-ClientSide.dll
+H:\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.pdb
+H:\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.genruntimeconfig.cache
+H:\StudentApi-ClientSide\obj\Debug\net8.0\ref\StudentApi-ClientSide.dll
+H:\Course Api\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.exe
+H:\Course Api\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.deps.json
+H:\Course Api\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.runtimeconfig.json
+H:\Course Api\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.dll
+H:\Course Api\StudentApi-ClientSide\bin\Debug\net8.0\StudentApi-ClientSide.pdb
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.AssemblyInfoInputs.cache
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.AssemblyInfo.cs
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.csproj.CoreCompileInputs.cache
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.dll
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\refint\StudentApi-ClientSide.dll
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.pdb
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\StudentApi-ClientSide.genruntimeconfig.cache
+H:\Course Api\StudentApi-ClientSide\obj\Debug\net8.0\ref\StudentApi-ClientSide.dll
